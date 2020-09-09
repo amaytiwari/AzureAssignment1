@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\SimpleWebApi.deps.json
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\SimpleWebApi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\SimpleWebApi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\SimpleWebApi.dll
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\bin\Release\netcoreapp2.1\SimpleWebApi.pdb
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.dll
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.pdb
+C:\Users\Lenovo\source\repos\SimpleWebApi\SimpleWebApi\obj\Release\netcoreapp2.1\SimpleWebApi.genruntimeconfig.cache
